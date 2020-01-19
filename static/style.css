@@ -4,6 +4,30 @@ body {
     webkit-print-color-adjust: exact;
 }
 
+a:link {
+    text-decoration: none;
+    color: #000;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #000;
+}
+
+.selected {
+    text-decoration: underline;
+}
+
 .nav {
     position: relative;
     float: left;
@@ -41,6 +65,26 @@ h3 {
     font-size: 14pt;
 }
 
+.nav ul {
+ padding: 0 10px 10px 35px;
+ margin: 0;
+ list-style-type: none;
+}
+
+.left ul {
+ padding: 0 15px 15px;
+}
+
+.right ul {
+ padding: 0 10px 10px 35px;
+ margin: 0;
+ list-style-type: disc;
+}
+
+li {
+
+}
+
 @font-face {
     font-family: "agilohandwriting";
     src: url(fonts/agilohandwriting.ttf) format("truetype");
@@ -73,4 +117,31 @@ h3 {
 
 .boxed {
     border: 0.5mm solid black;
+}
+
+@media print {
+
+.nav {
+    display: none;
+}
+
+h1 {
+    display: none;
+}
+
+.wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 277mm;
+    width: 190mm;
+}
+
+body {
+    height: 277mm;
+    width: 190mm;
+}
+
 }
