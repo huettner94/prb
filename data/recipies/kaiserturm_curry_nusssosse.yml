@@ -11,7 +11,7 @@ steps:
     - Reis kochen
     - Schnibbln
     - Gemüsebrühe
-    - Nussoße verrühren: 2 EL Nusspaste, Korianderpulver, Chilipulver, 1 EL Sojasoße
+    - "Nussoße verrühren: 2 EL Nusspaste, Korianderpulver, Chilipulver, 1 EL Sojasoße"
     
   - name: Zubereitung
     steps:
@@ -22,7 +22,7 @@ steps:
     - 150ml Gemüsebrühe dazugeben
     - Nüsse hinzugeben
     - 30 sek. kochen
-    - dazugeben: Nussoße
+    - "dazugeben: Nussoße"
     - 1 Min. kochen
     - 40 ml Kokosmilch (flüssig)
     - Köcheln mittlere stufe 2-3 Min
