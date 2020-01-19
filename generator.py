@@ -27,6 +27,7 @@ def get_data(path="data"):
     data = {}
     for filename in os.listdir(path):
         p = os.path.join(path, filename)
+        logger.debug("Loading %s" % p)
         if os.path.isdir(p):
             data[filename] = get_data(p)
         elif p.endswith(".yml"):
