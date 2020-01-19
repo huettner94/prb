@@ -1,0 +1,15 @@
+name: Burger Maisbratlinge
+ingredients:
+  - 200g getr. Kichererbsen
+  - 340g Mais aus der Dose
+  - Gewürze
+  - Zitronenschale
+  - etwas Mehl
+steps:
+  - name: Zubereitung
+    steps:
+    - getrocknete Kichererbsen 10h einweichen
+    - Kichererbsen und Mais pürieren
+    - Gewürze + Schale + Mehl vermengen
+    - Bratlinge formen und in die Pfanne oder Backofen
+    - Gewürze z.B. Paprikapulver, Koriander, Kreuzkümmel, Koriander
