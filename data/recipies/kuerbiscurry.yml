@@ -1,0 +1,24 @@
+name: Kürbiscurry
+ingredients:
+  - 600g Kürbis
+  - 800g Kartoffeln
+  - 1 Zwiebel
+  - 400ml Kokosmilch (cremig)
+  - 100g Erdnüsse
+steps:
+  - name: Vorbereitung
+    steps:
+      - Kartoffeln, Kürbis und Zwiebeln schneiden
+      - Kokosmilch verflüssigen? Griffbereit geöffnet
+      - "Gewürze: Chilipulver, Sambal Olek, Garam Masala"
+      - 150ml Wasser
+  - name: Zubereitung
+    steps:
+    - Zwiebeln im Topf mit Öl anbraten, Chilipulver dazu
+    - Kartoffeln dazu, kurz weiterbraten
+    - Kokosmlich + 150ml Wasser dazu
+    - 10 min köcheln mit Deckel
+    - Kürbis dazu
+    - 10 min köcheln mit Deckel
+    - restliche Gewürze und Erdnüsse dazu
+    - nochmal kurz ohne Deckeln aufkochen
