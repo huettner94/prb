@@ -1,6 +1,5 @@
 name: Süßsauer-Soße
 ingredients:
-  - "für 6 Portionen:"
   - 700g Gemüse
   - 300g Ananas aus der Dose + Saft aus der Dose
   - 5g Tamarindenmark
@@ -17,3 +16,4 @@ steps:
     - "dann dazugeben: 1,5 EL Sojasoße, Tamarinde, Sambal Oelek
     - aufkochen, dann 5min weitergaren"
     - passt gut zu Nudelpfannkuchen
+amount: 6 Portionen
