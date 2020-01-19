@@ -28,8 +28,10 @@ jobs:
         cd "${GITHUB_WORKSPACE}/master"
         pip install -r requirements.txt
         ./generator.py
+        rm -rf "${GITHUB_WORKSPACE}/gh-pages/*"
         cp -R output/* "${GITHUB_WORKSPACE}/gh-pages/"
         cd "${GITHUB_WORKSPACE}/gh-pages/"
+        echo "prb.eurador.de" > CNAME
         git add .
         git config --global user.name "Github action"
         git config --global user.email "github-action@github.com"
