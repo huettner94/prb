@@ -9,18 +9,33 @@
 <body>
 	<h1>Rezepte</h1>
 	<div class="nav">
+
+		{% set types = [] %}
+		{% for name, value in data.recipies.items() %}
+		{% do types.append(value.type) %}
+		{% endfor %}
 		<ul>
-			{% for name, recipieitem in data.recipies.items() %}
-			<li><a href='{{ name }}.html'>{{ recipieitem.name }}</a></li>
-			{% endfor %}
+			{% for type in types|unique|sort %}
+			<li>
+				<caption>{{ type }}</caption>
+				<ul>
+					{% for name, value in data.recipies.items()|sort %}
+					{% if value.type == type %}
+					<li><a {% if itemdata and itemdata.name == value.name %}class="selected"{% endif %}href='{{ name }}.html'>{{ value.name }}</a></li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</li>
+			{% endfor %}	
 		</ul>
+
 	</div>
 	{% if itemdata %}
 	<div class="wrapper">
 		<h2>{{itemdata.name}}</h2>
 		<div class="left">
 			{% if itemdata.amount %}
-				Für {{ itemdata.amount }} Personen
+				{{ itemdata.amount }}
 			{% endif %}
 
 			{% for step in itemdata.steps %}

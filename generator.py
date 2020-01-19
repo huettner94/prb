@@ -18,7 +18,8 @@ logger.addHandler(handler)
 
 JINJAENV = Environment(
     loader=FileSystemLoader('templates'),
-    autoescape=select_autoescape(['html', 'xml'])
+    autoescape=select_autoescape(['html', 'xml']),
+    extensions=['jinja2.ext.do']
 )
 
 

@@ -25,7 +25,7 @@ a:active {
 }
 
 .selected {
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 
 .nav {
@@ -66,9 +66,14 @@ h3 {
 }
 
 .nav ul {
- padding: 0 10px 10px 35px;
- margin: 0;
- list-style-type: none;
+    padding: 0 10px 15px 35px;
+    margin: 0;
+    list-style-type: none;
+    font-weight: 400;
+}
+
+.nav > ul > li {
+    font-weight: 600;
 }
 
 .left ul {
