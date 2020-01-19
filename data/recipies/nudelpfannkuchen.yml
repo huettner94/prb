@@ -1,6 +1,5 @@
 name: Nudelpfannkuchen
 ingredients:
-  - "für 12 Pfannkuchen:"
   - 400g Kurkuma-Nudeln
   - 15 Eier
   - 4 Frühlingszwiebeln
@@ -11,3 +10,4 @@ steps:
     - Frühlingszwiebeln schneiden
     - vermengen und braten
     - passt gut zu Süßsauer-Soße
+amount: 12 Pfannkuchen
