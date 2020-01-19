@@ -41,6 +41,7 @@ def get_descriptor():
 
 
 def copy_static(output_dir):
+    shutil.copytree("general/", output_dir, dirs_exist_ok=True)
     staticpath = os.path.join(output_dir, "static")
     shutil.copytree("static/", staticpath, dirs_exist_ok=True)
 

@@ -12,35 +12,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      with:
-        path: "master"
-    - uses: actions/checkout@v2
-      with:
-        repository: "huettner94/prb"
-        ref: "gh-pages"
-        path: "gh-pages"
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
     - name: Generate page
       run: |
-        cd "${GITHUB_WORKSPACE}/master"
         pip install -r requirements.txt
         ./generator.py
-        rm -rf "${GITHUB_WORKSPACE}/gh-pages/*"
-        cp -R output/* "${GITHUB_WORKSPACE}/gh-pages/"
-        cd "${GITHUB_WORKSPACE}/gh-pages/"
-        echo "prb.eurador.de" > CNAME
-        touch .nojekyll
-        git add -A .
-        git status
-        git config --global user.name "Github action"
-        git config --global user.email "github-action@github.com"
-        git commit -m "applied change" || true
     - name: Push pages
-      uses: ad-m/github-push-action@v0.5.0
+      uses: peaceiris/actions-gh-pages@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
-        directory: gh-pages
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./output
