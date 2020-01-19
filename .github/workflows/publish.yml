@@ -33,7 +33,7 @@ jobs:
         cd "${GITHUB_WORKSPACE}/gh-pages/"
         echo "prb.eurador.de" > CNAME
         touch .nojekyll
-        git add .
+        git add -A .
         git config --global user.name "Github action"
         git config --global user.email "github-action@github.com"
         git commit -m "applied change" || true
