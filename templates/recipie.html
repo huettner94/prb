@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>RecipieBook</title>
+	<link rel="stylesheet" href="static/normal.css">
+	<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+	<h1>Rezepte</h1>
+	<div class="nav">
+		<ul>
+			{% for name, recipieitem in data.recipies.items() %}
+			<li><a href='{{ name }}.html'>{{ recipieitem.name }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+	{% if itemdata %}
+	<div class="wrapper">
+		<h2>{{itemdata.name}}</h2>
+		<div class="left">
+			{% if itemdata.amount %}
+				Für {{ itemdata.amount }} Personen
+			{% endif %}
+
+			{% for step in itemdata.steps %}
+			<h3>{{ step.name }}</h3>
+			<ul>
+				{% for substep in step.steps %}
+				<li>{{ substep }}</li>
+				{% endfor %}
+			</ul>
+			{% endfor %}
+
+		</div>
+		<div class="right boxed">
+			<h3>Einkaufszeddele</h3>
+			<ul>
+				{% for item in itemdata.ingredients %}
+				<li>{{ item }}</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+	{% endif %}
+</body>
+</html>

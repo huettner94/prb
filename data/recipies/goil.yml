@@ -1,0 +1,14 @@
+name: goil
+ingredients:
+  - kekseeeee
+steps:
+  - name: Schritt 1
+    steps:
+    - Fressen
+  - name: Schritt 2
+    steps:
+    - viel Fressen
+  - name: Schritt 3
+    steps:
+    - Noch mehr Fressen
+amount: 25
