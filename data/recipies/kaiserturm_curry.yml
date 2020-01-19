@@ -9,7 +9,7 @@ steps:
   - name: Vorbereitung
     steps:
     - Kokosmilch schmelzen
-    - Nodeln kochen
+    - Nudeln kochen
     - Schnibbln
     - Salz + Zucker
     - Gemüsebrühe
@@ -21,8 +21,9 @@ steps:
     - 20 sek. brutzeln
     - 150ml Gemüsebrühe dazugeben
     - 30 sek. kochen
-    - dazugeben: 1TL Salz, 1TL Zucker, 1TL Currypaste, 1TL Sambal Olek
+    - "dazugeben: 1TL Salz, 1TL Zucker, 1TL Currypaste, 1TL Sambal Olek"
     - 1 Min. kochen
     - 40 ml Kokosmilch (flüssig)
     - Köcheln mittlere stufe 2-3 Min
     - Nudeln dazugeben
+amount: 1 Portion
