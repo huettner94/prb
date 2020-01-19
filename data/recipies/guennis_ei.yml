@@ -5,4 +5,4 @@ steps:
   - name: Zubereitung
     steps:
     - nach Aufkochen des Wassers 4 Minuten, net mehr, net weniger !!!
-amount: 1
+amount: 1 Günni
