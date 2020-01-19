@@ -60,7 +60,7 @@ def generate_page(output_dir, name, template, data, itemdata=None):
 def generate_pages(output_dir, descriptor, data):
     for page in descriptor["pages"]:
         if "foreach" in page:
-            for itemname, itemdata in data[page["foreach"]].items():
+            for itemname, itemdata in data.get(page["foreach"], {}).items():
                 pagename = page["name"].replace("{{name}}", itemname)
                 generate_page(output_dir, pagename, page["template"], data,
                               itemdata)

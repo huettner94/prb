@@ -1,6 +1,9 @@
 pages:
   - name: index.html
-    template: recipie.html
+    template: master.html
   - name: "{{name}}.html"
     template: recipie.html
     foreach: recipies
+  - name: "{{name}}.html"
+    template: blog.html
+    foreach: blog

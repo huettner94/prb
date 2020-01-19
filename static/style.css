@@ -86,8 +86,10 @@ h3 {
  list-style-type: disc;
 }
 
-li {
-
+.blog {
+    padding: 10px 50px 20px 50px;
+    font-size: 11pt;
+    line-height: 20px;
 }
 
 @font-face {
