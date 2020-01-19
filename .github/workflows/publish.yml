@@ -16,11 +16,12 @@ jobs:
         path: "master"
     - uses: actions/checkout@v1
       with:
+        repository: "huettner94/prb"
         ref: "gh-pages"
         path: "gh-pages"
     - name: Generate page
       run: |
-        cd master
+        cd "${GITHUB_WORKSPACE}/master"
         pip install -r requirements.txt
         ./generator.py
         cp -R output/* "${GITHUB_WORKSPACE}/gh-pages/"
