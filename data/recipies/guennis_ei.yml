@@ -1,4 +1,6 @@
 name: Günnis Ei
+ingredients:
+  - Ei für Günni
 steps:
   - name: Zubereitung
     steps:
