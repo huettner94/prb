@@ -1,0 +1,49 @@
+name: Curry-Brötchen
+type: Asiatisch
+ingredients:
+  - Gemüsebrühe
+  - rote Currypaste
+  - Sambal Olek
+  - Kokosmlich
+  - 600g Mehl
+  - 3 Ei
+  - Hefe
+  - Semmelbrösel
+  - Gemüse
+steps:
+  - name: Vorbereitung
+    steps:
+      - Kokosmilch schmelzen
+      - Nudeln kochen
+      - Schnibbln
+      - Salz + Zucker
+      - Gemüsebrühe
+  - name: Curry
+    steps:
+      - Wok sehr heiß werden lassen
+      - 2 EL Öl rein
+      - Gemüse dazugeben (3 Karotten, 150g Zuckererbsen, 1 Paprika, 2 Zwiebeln)
+      - 20 sek. brutzeln
+      - 210ml Gemüsebrühe dazugeben
+      - 30 sek. kochen
+      - "dazugeben: 3TL Salz, 3TL Zucker, 2TL Currypaste, 2TL Sambal Olek"
+      - 1 Min. kochen
+      - 120 ml Kokosmilch (flüssig)
+      - Köcheln mittlere stufe 2-3 Min
+      - Soße verdicken, bis keine Soße mehr vorhanden ist (dazu 1TL Mehl mit etwas Wasser vermengen und dazugeben)
+  - name: Brötchenteig
+    steps:
+      - 45g frische Hefe mit 3 Tl Zucker und lauwarmen (unter 40°C) 75ml Wasser verrühren
+      - 600g Mehl und 2 TL Salz in eine Schlüssel geben
+      - 3 Ei trennen und das Eigelb zusammen mit dem Mehl in die Schlüssel geben (Eiweiß aufhben)
+      - "Hefewasser nach und nach zum Mehl geben. (Bei Trockenhefe: jetzt einfach 9g dazugeben)"
+      - Teig kneten
+      - Teig mit feutem Tuch abdecken. Backofen auf 40°C vorheizen und ausschalten. Teig für 45 min da drin gehen lassen
+      - Teig in 24 Stücke teilen und Scheiben mit ca 10cm Durchmesser formen
+      - Etwas 1 Esslöffel Curry pro Brötchen hinzugeben
+      - Brötchen zudrücken
+      - Brötchen mit feuchtem Tuch abdecken, 10 min ziehen lassen
+      - Brötchen mit Eiweiß einschmieren und in Semmelbrösel wälzen
+      - mit viel Fett anbraten/frittieren
+      - alternativ auf Gitter backen (nur 1 auf einmal)
+amount: 2 Bleche

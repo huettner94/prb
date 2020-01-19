@@ -1,0 +1,30 @@
+name: Teriyaki Nudeln
+type: Asiatisch
+ingredients:
+  - Sojasauce
+  - Reiswein
+  - Agavendicksaft
+  - Knoblauch
+  - 400g Tofu
+  - Gemüse
+steps:
+  - name: Teriyaki-Sauce
+    steps:
+      - "folgendes Vermengen:"
+      - 6 EL Tamari- oder dunkle Sojasauce
+      - 6 EL Reiswein
+      - 4 EL heller Agavendicksaft
+      - 2 EL Speisestärke
+      - 4 Knoblauchzehen
+      - 500 ml Wasser
+  - name: Nudeln mit Tofu
+    steps:
+    - "300g Nudeln kochen; besonders lecker: kurkuma Nudeln"
+    - 400g Tofu in mudgerechte Stücke schneiden
+    - Tofu mit Küchenpapier abtupfen
+    - Tofu braten
+    - Gemüse schneiden z.B. Zuckerschoten, Paprika, Zwiebeln, Pilze und Karotten (große Raspel), ca. 600g
+    - Gemüse im Wok anbraten
+    - Sauce hinzugeben, ständig rühren, bis sie andickt
+    - Tofu und Nudeln hinzugeben und ca 2 Minuten verrühren
+amount: 4 Portionen

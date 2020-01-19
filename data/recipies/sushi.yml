@@ -1,0 +1,28 @@
+name: Sushi
+type: Asiatisch
+ingredients:
+  - Klebereis
+  - Noriblätter
+  - Soße
+steps:
+  - name: Reis
+    steps:
+      - pro Person halbe Tasse Reis
+      - 2 EL Reisessig, 1 TL Salz, 1 TL Zucker, 1 EL Mirin (süßer japanischer Reiswein) in einen Topf geben
+      - erhizen, bis sich Salz + Zucker aufgelöst haben
+      - abkühlen lassen
+      - unter den fertigen Reis mischen
+  - name: Ideen für Soße
+    steps:
+      - Sojasoße (salzige oder sße)
+      - Mojo oder Limettendip
+      - Mango-Chili-Soße
+  - name: Ideen für Füllung
+    steps:
+      - mariniertes Hühnchen
+      - hartgekochte eos_interface- Erdnüsse
+      - Sesam
+      - "Gemüse: Gurke, Paprika, Avocade" 
+      - Currytofu
+      - Obst für süße Sushi
+amount: 4 Portionen
