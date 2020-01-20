@@ -1,0 +1,30 @@
+name: Veganer Braten
+type: Normal
+ingredients:
+  - 450g roten Linsen
+  - 1 kleine Zwiebel
+  - 2 Knoblauchzehen
+  - 1 Karotte
+  - 300g Nüsse
+  - Tomatenmark
+  - Sojasoße
+  - 120g Semmelbrösel
+steps:
+  - name: Vorbereitung
+    steps:
+      - Backform einfetten und mit Backpaier auslegen
+      - Backofen auf 180°C vorheizen
+  - name: Zubereitung
+    steps:
+      - Linsen + Lorbeerblatt kochen, bis die Linsen ganz weich sind
+      - Zwiebeln, Knoblach und Karotte klein raspeln und kurz anbraten
+      - Semmbelbrösel zerkleinern
+      - 1/3 der Nüsse grob hacken, den rest fein zermahlen
+      - in einer Schüssel Semmelbrösel, Linsen, Gemüse, Nüsse, 1 EL Tomatenmark, 1 EL Sojasoße, 5 Tropfen Raucharoma und Gewürze vermengen
+      - 25 Minuten backen
+  - name: Variation für die Füllung
+    steps:
+      - die Hälfte der Masse in die Form füllen
+      - gehackte, gegrillte Paprika, Zucchini o.ä. hinzugeben
+      - mit der zweiten Hälfte der Masse bedecken
+amount: 8 Portionen

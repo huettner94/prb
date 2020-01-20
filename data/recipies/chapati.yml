@@ -1,0 +1,18 @@
+name: Chapati
+type: Indisch
+ingredients:
+  - 300g 1050iger Mehl
+steps:
+  - name: Zubereitung
+    steps:
+      - Mehl + 2 EL Öl + 1 TL Salz + 170 ml Wasser vermengen
+      - 10 Minuten von Hand kneten
+      - Teig in Schlüssel geben, mit feuchtem Tuch abdecken
+      - 20 Minuten ziehen lassen
+      - etwa 12 Chapati ausrollen (sehr dünn)
+      - in sehr heißer, beschiteter Pfanne ohne Fett anbraten (je Seite ca. 1 min)
+  - name: Knoblauch Chapati
+    steps:
+      - viel Knoblauch mit etwas Olivenöl anbraten
+      - auf den noch warmen Chapati verteilen
+amount: 4 Portionen

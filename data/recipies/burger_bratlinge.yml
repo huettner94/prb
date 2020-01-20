@@ -1,0 +1,20 @@
+name: Burger Bratlinge
+type: Normal
+ingredients:
+  - 200g getr. Kichererbsen
+  - 1 Semmelbröselbrötchen
+  - 1 kleine Zwiebel
+  - 1 Knoblauchzehe
+  - Raucharoma
+steps:
+  - name: Vorbereitung
+    steps:
+      - getrocknete Kichererbsen min. 10h einweichen
+  - name: Zubereitung
+    steps:
+    - Linsen mit dem  Lorbeerblatt kochen
+    - Semmelbröselbrötchen zerkleinern und mit etwas Wasser ziehen lassen
+    - Linsen, Zwiebeln und Knoblauch hinzugeben
+    - Gewürze und Racharoma hinzugeben
+    - Bratlinge formen und im Backofen/der Pfanne braten
+amount: 10 Bratlinge
