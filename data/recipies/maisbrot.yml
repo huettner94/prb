@@ -1,0 +1,19 @@
+name: Maisbrot
+type: Normal
+ingredients:
+  - 400 ml flüssige Kokosmilch
+  - alternativ 600 ml Sojamilch
+  - 400g Maismehl
+  - 200g Weizenmehl
+steps:
+  - name: Vorbereitung
+    steps:
+      - Backform einfetten
+  - name: Zubereitung
+    steps:
+      - Die Kokosmilch mit 200 ml Wasser in eine Schüssel geben
+      - Alternativ die Sojamilch ohne Wasser in eine Schüssel geben
+      - Maismehl, Weizenmehl, 2 TL Backpulver, 1/2 TL Salz und 80ml Rapsöl dazugeben
+      - für ca. 30 Minuten bei 180° Umluft backen
+      - 5 Minuten abkühlen lassen
+amount: 5 Portionen

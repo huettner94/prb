@@ -1,0 +1,18 @@
+name: Kartoffelomlette
+type: Normal
+ingredients:
+  - 6 mittelgroße Kartoffeln
+  - 6 mittelgroße Eier
+steps:
+  - name: Zubereitung
+    steps:
+    - 6 mittelgroße Kartoffeln in kleine Würfel schneiden
+    - Kartoffeln kurz anbraten und dann mit Deckel auf geringer Stufe garen
+    - Die Eier in eine Schlüssel geben
+    - mit Salz und Pfeffer würzen
+    - Kartoffeln dazugeben und verrühren
+    - Öl in die Pfanne geben und die Masse hineinschütten
+    - auf kleiner Stufe ca. 10 Minuten braten
+    - mit einem großén Teller wenden
+    - nochmals ca. 5 Minuten braten
+amount: 4 Portionen
