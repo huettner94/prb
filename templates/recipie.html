@@ -1,27 +1,27 @@
-{% extends "master.html" %}
-{% block content %}
+{%- extends "master.html" -%}
+{%- block content -%}
 <h2>{{itemdata.name}}</h2>
 <div class="left">
-	{% if itemdata.amount %}
+	{%- if itemdata.amount %}
 		{{ itemdata.amount }}
-	{% endif %}
+	{% endif -%}
 
-	{% for step in itemdata.steps %}
+	{%- for step in itemdata.steps %}
 	<h3>{{ step.name }}</h3>
 	<ul>
-		{% for substep in step.steps %}
+		{%- for substep in step.steps %}
 		<li>{{ substep }}</li>
-		{% endfor %}
+		{%- endfor -%}
 	</ul>
-	{% endfor %}
+	{%- endfor -%}
 
 </div>
 <div class="right boxed">
 	<h3>Einkaufszeddele</h3>
 	<ul>
-		{% for item in itemdata.ingredients %}
+		{%- for item in itemdata.ingredients %}
 		<li>{{ item }}</li>
-		{% endfor %}
+		{%- endfor %}
 	</ul>
 </div>
-{% endblock %}
+{% endblock -%}
