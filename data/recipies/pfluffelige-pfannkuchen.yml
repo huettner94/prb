@@ -1,0 +1,15 @@
+name: Pfluffelige Pfannkuchen
+type: Normal
+ingredients:
+  - 4 Eiweiß
+  - 2 Eier
+  - 100 ml Milch
+  - 80 g Mehl
+steps:
+  - name: Zubereitung
+    steps:
+      - Eiweiß zu Einschnee schlagen
+      - Eier, Milch und Mehl vermengen, dazu eine Prise Salz und Zucker
+      - Einschnee unterheben
+      - Wie normale Pfannkuchen braten
+amount: 2 Portionen
