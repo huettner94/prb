@@ -26,7 +26,7 @@
 				<ul>
 					{%- for name, value in data.recipies.items()|sort -%}
 					{%- if value.type == type %}
-					<li><a class="navoption {% if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
+					<li><a class="navoption {%- if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
 					{%- endif -%}
 					{%- endfor -%}
 				</ul>
@@ -37,7 +37,7 @@
 				<caption>Blog</caption>
 				<ul>
 					{%- for name, value in data.blog.items()|sort %}
-					<li><a class="navoption {% if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
+					<li><a class="navoption {%- if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
 					{%- endfor -%}
 				</ul>
 			</li>
