@@ -1,0 +1,37 @@
+name: Bananentorte
+type: Nachtisch
+ingredients:
+  - Angaben für eine 26"/28" Form
+  - 6/8 Eier
+  - 150/200g Butter
+  - 150/200g Rohrzucker
+  - 150/200g Mehl
+  - 150/200g geriebene Mandeln mit Schale
+  - 1 Pk. Backpulver
+  - 150/200g zartbitter Schokoraspel
+  - 1,5/2 Liter Sahne
+  - 6 Bananen
+steps:
+  - name: Boden (1 Tag vorher)
+    steps:
+    - Backform einfetten und mit Backpapier auslegen
+    - Eier trennen
+    - Einschnee schlagen
+    - In einer Schüssel Mehl, Backpulver und Mandeln vermengen
+    - In einer anderen Schüssel Zucker und Butter verrühren
+    - Eigelb nach und nach dazugeben
+    - Die Mehlmischung dazugeben
+    - Eiweiß unterheben
+    - 50g Schokoraspeln hinzugeben
+    - Backofen auf 175°C Ober-/Unterhitze vorheizen
+    - für 40-60 min backen
+    - Am nächsten Tag stürzen und dritteln
+  - name: Torte fertigstellen
+    steps:
+    - Sahne schlagen
+    - gegen Ende ein bisschen Vanillezucker und die restlichen Schokoraspeln dazu
+    - Bananen dritteln
+    - alles in 3 Schickten aufeinander stapeln
+    - Außen mit Sahne verkleiden
+    - ein paar Stunden kalt stellen
+amount: ein 26" Kuchen

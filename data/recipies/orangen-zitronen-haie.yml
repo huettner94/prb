@@ -1,0 +1,23 @@
+name: Orangen / Zitronen Haie
+type: Nachtisch
+ingredients:
+  - 1/2 Orange/Zitrone
+  - 250g Puderzucker
+  - 350g 550er Mehl 
+  - 180g Zucker
+  - 200g Butter
+  - 1 Ei
+  - 1,5 Tl Backpulver
+  - Orangen-/Zitronenschale
+steps:
+  - name: Vorbereitung
+    steps:
+    - Teig kneten und einige Stunden in den Kühlschrank stellen
+    - Backpapier für Dosen ausschneiden
+  - name: Zubereitung
+    steps:
+    - Mehl, Butter, Zucker, Schale, Backpulver und Ei kneten
+    - Für die Glasur den Saft 1/2 Orange/Zitrone mit 250g Puderzucker mischen
+    - Bei 180-200°C Ober-/Unterhizte für 10-15 min mit maximal einem Blech backen
+    - Danach die Haie bestreichen
+amount: ein 26" Kuchen

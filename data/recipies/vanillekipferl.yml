@@ -1,0 +1,22 @@
+name: Vanillekipferl
+type: Nachtisch
+ingredients:
+  - 500g 550er Mehl
+  - 400g Butter
+  - 200g Zucker
+  - 4-6 Eigelb
+  - 200g geriebene Mandeln mit Schale
+  - Rohrzucker für außen
+steps:
+  - name: Vorbereitung
+    steps:
+    - Teig kneten und einige Stunden in den Kühlschrank stellen
+    - Zuckermischen vorbereiten
+    - Backpapier für Dosen ausschneiden
+  - name: Zubereitung
+    steps:
+    - Mehl, Butter, Zucker, Vanille, Mandeln und Ei kneten
+    - Für die Zuckermischen Rohrzucker, weißer Zucker und Vanille mischen
+    - Bei 180-200°C Ober-/Unterhizte für 10-15 min mit maximal einem Blech backen
+    - Die Kipferl in der Zuckermischen wälzen, solange sie noch leicht warm sind
+amount: ein 26" Kuchen
