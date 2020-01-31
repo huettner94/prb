@@ -1,0 +1,25 @@
+name: Frühlingsrollen
+type: Asiatisch
+ingredients:
+  - gefrorener Frühlingsrollenteig
+  - halber Spitzkohl
+  - 200g Sojasprossen
+  - 3 Karotten
+  - 1 Pkg Glasnudeln
+steps:
+  - name: Füllung
+    steps:
+    - Spitzkohl fein hobeln, Karotten ine feine Streifen schneiden, Sojasprossen putzen, waschen und abtropfen
+    - Glasnudeln kurz in wasser einweichen, für 1 min mit heißem Wasser übergiesen und dann abgiesen
+    - 3-4 EL Sesamöl in einer Pfanne eritzen
+    - nach und nach Kohl und Karotten anbraten und dann Sprossen und Glasnudeln dazugeben und vermengen
+    - Mit Salz, Sojasauce und Sesamöl abschmecken
+  - name: Rollen
+    steps:
+    - Einen frühlingsrollenteig auf einen flachen Teller legen
+    - ca. 2 EL Gemüse in die Mitte geben
+    - den Teig inklusive der ganzen Füllung bis zur hälfte einrollen
+    - die Seiten des Teigs einklappen
+    - bis zur Spitze weiterrollen
+    - evtl die Spitze mit einer Wasser-Mehl-Mischung fixieren
+    - Die Rollen im Ölbad anbraten, bis sie goldbraun sind
