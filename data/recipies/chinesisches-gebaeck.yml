@@ -1,0 +1,18 @@
+name: Chinesisches Gebäck
+type: Asiatisch
+ingredients:
+  - Mehl
+  - Öl
+  - Bohnenpaste
+  - Eigelb
+steps:
+  - name: Zubereitung
+    steps:
+    - Für den Außenteig 400g Mehl mit 120g Speiseöl und lauwarmem Wasser zu einem Teig verkneten
+    - FÜr den Innenteig 200g Mehl mit 80g Speiseöl verkneten
+    - Aus dem Außenteig einzelne Kreise mit ca. 10 cm Durchmesser formen
+    - Den Innenteig so darauf verteilen, dass es wie ein Spiegelei aussieht
+    - Auf den Innenteig ein wenig Bohnenpaste geben
+    - Den Kreis zusammenfalten, sodass eine Kugel entsteht in deren Mitte die Bohnenpaste ist
+    - Die Kugel oben mit Eigelb bestreichen
+    - Die Kugeln für 30 Minuten bei 180°C Umluft backen

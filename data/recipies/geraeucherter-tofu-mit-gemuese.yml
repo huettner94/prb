@@ -1,0 +1,14 @@
+name: Geräucherter Tofu mit Gemüse
+type: Asiatisch
+ingredients:
+  - 1 Pck Räuchertofu
+  - 1 Tasse Erbsen
+  - 2 Karotten
+  - 2 Kartoffeln
+  - 2 Frühlingszwiebeln
+steps:
+  - name: Zubereitung
+    steps:
+    - Tofu, Karotten und Kartoffeln in kleine Würfel schneiden
+    - von den Frühlingszwiebeln den weißen Teil in scheiben schneiden
+    - mit etwas Sesamöl zusammen in einer Pfanne anbraten
