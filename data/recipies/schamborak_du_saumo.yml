@@ -1,0 +1,32 @@
+name: Schamborak du Saumo/Teigtaschen mit Gemüse
+type: Aramäisch
+ingredients:
+  - 1 kg Mehl
+  - 2 P. Trockenhefe
+  - 1/2 L Milch
+  - 3 Kartoffeln
+  - 2 grüne Spitzpaprika
+  - 1 rote Paprika
+  - 3 Zwiebeln
+  - 400g Champignons
+  - 500g Spinat
+steps:
+  - name: Teig
+    steps:
+      - die Milch leicht erwärmen
+      - Mehl, Trockenhefe, Salz, Milch und 4 EL Öl miteinander verkneten und für eine halbe Stunde gehen lassen
+  - name: Füllung
+    steps:
+      - Kartoffeln, Paprika, Zwiebeln und Champignons waschen und fein würfeln
+      - Spinat waschen und klein schneiden
+      - Anschliesen mit heißem Wasser übergiesen und abtropen lassen
+      - Spinat in 100ml Öl andünsten und in eine Schüssel geben
+      - Jedes weiteres Gemüse ebenfalls andünsten und in die Schüssel geben
+      - mit etwas Salz würzen
+      - mit 1/2 TL weißem und schwarzem Pfeffer, sowie 1 TL geschroteter Chili abschmecken
+  - name: Taschen
+    steps:
+      - Teig in Kreise mit ca 10 cm Durchmesser auswellen
+      - Die hälfte des Kreises füllen
+      - Zu einem halbkreis zusammenklappen und fest verschließen
+      - Die fertigen Taschen in reichlich Fett von beiden Seiten anbraten bis sie Goldbraun sind
