@@ -1,0 +1,26 @@
+name: Bamja/Okraschoteneintopf
+type: Aramäisch
+ingredients:
+  - 3 Zwiebeln
+  - 3 Paprika
+  - Tomatenmark
+  - Paprikamark
+  - 3 Beutel gefrorene Okraschoten
+steps:
+  - name: Zubereitung
+    steps:
+      - Zwiebeln in 1cm große Würfel schneiden
+      - Paprika in 1 cm lange ringe schneiden
+      - Mit Öl in einem Topf anbraten
+      - 1EL Tomaten- und Paprikamark dazugeben und mitbraten
+      - Okraschoten dazugeben
+      - Okraschoten mit Wasser bedecken
+      - Mit Salz, schwarzem Pfeffer und geschroteter Chili abschmecken
+      - Für 30-40 min köcheln
+  - name: Alternative für Okraschoten aus dem Glas
+    steps:
+      - 4 Gläßer eingelegte Okraschoten
+      - Flüssigkeit absieben
+      - Tomaten entsorgen
+      - Okraschoten mit Wasser ausspülen
+      - Zusätzlich mit 1 TL Zucker würzen
