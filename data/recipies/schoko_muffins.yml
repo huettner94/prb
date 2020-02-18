@@ -1,0 +1,17 @@
+name: Schoko Muffins
+type: Nachtisch
+ingredients:
+  - 500g Mehl
+  - 200g Zucker
+  - 2 Pk. Vanillezucker
+  - 1 Pk. Backpulver
+  - 1 Pr. Salz
+  - 200g geraspelte Schokolade
+  - 2 EL Schokocreme
+  - 300ml Sprudel
+  - Puderzucker
+steps:
+  - name: Zubereitung
+    steps:
+      - Alles außer dem Puderzucker miteinander vermischen und in Muffinförmchen geben
+      - Bei 180°C Ober-, Unterhitze für ca. 20 min backen
