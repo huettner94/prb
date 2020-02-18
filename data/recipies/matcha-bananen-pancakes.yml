@@ -1,0 +1,28 @@
+name: Matcha-Bananen-Pancakes
+type: Nachtisch
+ingredients:
+  - 2 EL Butter
+  - 1 TL Matcha-Pulver
+  - 2 Eier
+  - 2 Bananen
+  - 125g Buttermilch
+  - 125ml Milch
+  - 1/2 TL Vanilleessenz
+  - 200g Mehl
+  - 1 EL Backpulver
+  - 1 Prise Salz
+  - 2 TL Zucker
+steps:
+  - name: Zubereitung
+    steps:
+      - Butter zerlassen
+      - Matache-Pulver mit 1 EL Wasser verrühren
+      - Eier mit Schneebesen untermischen
+      - Bananen zerdrücken und dazugeben
+      - Buttermilch, Milch und Vanilleessenz hinzugeben und verrühren
+      - In einer anderen Schüssel Mehl, Backpulver, Salz und Zucker vermengen
+      - Den Inhalt der ersten Schüssel in die zweite geben und alles vermengen
+      - 15 min quellen lassen
+      - Unmittelbar vor dem Braten die Butter einrühren
+      - Wie Pfannkuchen braten (jeweils 10 cm Durchmesser)
+amount: 6 Portionen
