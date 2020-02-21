@@ -1,0 +1,14 @@
+name: Reiswein Marinade
+type: Marinaden
+ingredients:
+  - 12 EL Sesamsamen
+  - 4 EL Sojasauce
+  - 4 EL Mirin (Reiswein)
+  - 2 EL Zucker
+  - 1 EL Reisessig
+  - 2-4 TL Chilipaste
+steps:
+  - name: Zubereitung
+    steps:
+      - alles vermengen
+amount: genug für 200g Tofu
