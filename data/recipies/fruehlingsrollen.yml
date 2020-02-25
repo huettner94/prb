@@ -18,7 +18,7 @@ steps:
     - wenn der Tofu komplett aufgetaut ist (nach 12-16 Stunden) den Tofu in dünne Scheiben schneiden und marinieren
   - name: Füllung
     steps:
-    - Karotten, Paprika in feine Streifen schneiden, SZuckerschoten in Stücke schneiden, Zwiebeln klein schneiden
+    - Karotten, Paprika in feine Streifen schneiden, Zuckerschoten in Stücke schneiden, Zwiebeln klein schneiden
     - Glasnudeln kochen
     - 3-4 EL Sesamöl in einer Pfanne eritzen
     - nach und nach das Gemüße anbraten
@@ -26,7 +26,7 @@ steps:
     - Mit Salz, Sojasauce und Sesamöl abschmecken
   - name: Rollen
     steps:
-    - Einen frühlingsrollenteig auf einen flachen Teller legen
+    - Einen Frühlingsrollenteig auf einen flachen Teller legen
     - ca. 2 EL Gemüse in die Mitte geben
     - etwas Tofu darauf legen
     - den Teig inklusive der ganzen Füllung bis zur hälfte einrollen
