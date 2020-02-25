@@ -1,0 +1,23 @@
+name: Limetten Marinade
+type: Marinaden
+ingredients:
+  - 2 unbehandelte Limetten
+  - 3 EL Sojasauce
+  - 1 gestr. TL gemahlener Pfeffer
+  - 1 gestr. TL Zucker
+  - 100g Butter
+  - 4 EL Öl
+steps:
+  - name: Zubereitung
+    steps:
+      - Limetten waschen und trocknen
+      - Von einer Limette die Schale abraspeln
+      - Beide Limetten auspressen
+      - Sojasauce, Pfeffer, Zucker und 3/4 des Limettensafts zu einer Marinade verrühren
+      - Tofu in 1 cm dicke Scheiben schneiden, von beiden Seiten mit der Marinade bestreichen und 15min Ruhen lassen
+      - Butter schaumig rühren
+      - Limettenschalen und restlichen Saft dazugeben
+      - Tofu in der Pfanne in Öl goldbraun anbraten
+      - Danach die Limettenbutter auf den Tofu geben und in der Pfanne schmelzen lassen
+      - Darin kurz weiter braten
+amount: genug für 400g Tofu
