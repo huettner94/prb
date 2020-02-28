@@ -1,0 +1,18 @@
+name: Matcha Muffins
+type: Nachtisch
+ingredients:
+  - 225g Mehl
+  - 4 TL Backpulver
+  - 220g feiner Zucker
+  - 330g Butter
+  - 4 Eier
+  - 1 TL Matcha-Pulver
+  - 1 TL Vanillepaste
+steps:
+  - name: Zubereitung
+    steps:
+      - alles in eine Schüssel geben
+      - Zutaten zu einer glatten Masse verrühren (so früh wie möglich aufhören, da sonst der Teig zu trocken wird)
+      - in jedes Muffinförmchen ca 1 EL des Teigs geben
+      - bei 180°C Ober-/Unterhitze für 15 min backen
+amount: 24 Stück
