@@ -10,7 +10,7 @@ steps:
   - name: Zubereitung
     steps:
       - Zwiebeln in 1cm große Würfel schneiden
-      - Paprika in 1 cm lange ringe schneiden
+      - Paprika in 1 cm lange Ringe schneiden
       - Mit Öl in einem Topf anbraten
       - 1EL Tomaten- und Paprikamark dazugeben und mitbraten
       - Okraschoten dazugeben
