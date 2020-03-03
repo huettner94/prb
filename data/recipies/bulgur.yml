@@ -1,0 +1,15 @@
+name: Bulgur
+type: Beilagen
+ingredients:
+  - Bulgur
+steps:
+  - name: Zubereitung
+    steps:
+    - benötigten Bulgur abmessen und in eine Tasse/Schalen geben
+    - pro Tasse Bulgur 2 Tassen Wasser in einen Topf geben
+    - das Wasser zum Kochen bringen
+    - den Bulgur unter schnellem Rühren in den Topf geben
+    - Topf vom Herd nehmen
+    - etwas weiterrühren
+    - für 2 Minuten quellen lassen
+amount: 6 Portionen pro Tasse
