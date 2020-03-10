@@ -1,5 +1,6 @@
 name: Bamja / Okraschoteneintopf
 type: Aramäisch
+amount: 6 Portionen
 ingredients:
   - 3 Zwiebeln
   - 3 Paprika
@@ -24,3 +25,8 @@ steps:
       - Tomaten entsorgen
       - Okraschoten mit Wasser ausspülen
       - Zusätzlich mit 1 TL Zucker würzen
+
+  - name: Alternative zu Okraschoten
+    steps:
+      - 6 mittelgroße Kartoffeln
+      - vorkochen, sollten aber noch bissfest sein
