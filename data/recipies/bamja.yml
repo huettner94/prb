@@ -7,6 +7,7 @@ ingredients:
   - Tomatenmark
   - Paprikamark
   - 3 Beutel gefrorene Okraschoten
+  - Wahlweise Bulgur als Beilage
 steps:
   - name: Zubereitung
     steps:
@@ -18,6 +19,7 @@ steps:
       - Okraschoten mit Wasser bedecken
       - Mit Salz, schwarzem Pfeffer und geschroteter Chili abschmecken
       - Für 30-40 min köcheln
+      - wahlweise Bulgur dazu
   - name: Alternative für Okraschoten aus dem Glas
     steps:
       - 4 Gläßer eingelegte Okraschoten
