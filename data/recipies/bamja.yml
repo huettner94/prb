@@ -11,12 +11,12 @@ ingredients:
 steps:
   - name: Zubereitung
     steps:
-      - Zwiebeln in 1cm große Würfel schneiden
-      - Paprika in 1 cm lange Ringe schneiden
+      - Zwiebeln schneiden
+      - Paprika in 1 cm lange Streifen schneiden
       - Mit Öl in einem Topf anbraten
       - 1EL Tomaten- und Paprikamark dazugeben und mitbraten
       - Okraschoten dazugeben
-      - Okraschoten mit Wasser bedecken
+      - Topfinhalt mit Wasser bedecken
       - Mit Salz, schwarzem Pfeffer und geschroteter Chili abschmecken
       - Für 30-40 min köcheln
       - wahlweise Bulgur dazu
@@ -31,4 +31,4 @@ steps:
   - name: Alternative zu Okraschoten
     steps:
       - 6 mittelgroße Kartoffeln
-      - vorkochen, sollten aber noch bissfest sein
+      - in kleine Würfel schneiden
