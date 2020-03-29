@@ -1,5 +1,11 @@
 {%- extends "master.html" -%}
 {%- block content -%}
+{%- if itemdata.img %}
+	<img src="{{ itemdata.img }}" width=100%>
+{% else %}
+<div class="platzhalter"></div>
+{% endif -%}
+
 <h2>{{itemdata.name}}</h2>
 <div class="left">
 	{%- if itemdata.amount %}

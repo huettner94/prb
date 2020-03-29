@@ -19,31 +19,29 @@
 			<input type="text" id="searchbox" placeholder="Suche"/>
 		</div>
 
-		<ul>
-			{%- for type in types|unique|sort %}
-			<li>
-				<caption>{{ type }}</caption>
-				<ul>
-					{%- for name, value in data.recipies.items()|sort -%}
-					{%- if value.type == type %}
-					<li><a class="navoption {%- if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
-					{%- endif -%}
-					{%- endfor -%}
-				</ul>
-			</li>
-			{%- endfor -%}	
-			{%- if data.blog -%}
-			<hr>
-			<li>
-				<caption>Blog</caption>
-				<ul>
-					{%- for name, value in data.blog.items()|sort %}
-					<li><a class="navoption {%- if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
-					{%- endfor -%}
-				</ul>
-			</li>
-			{%- endif -%}
-		</ul>
+		{%- for type in types|unique|sort %}
+		<div class="nav-ul">
+			<caption>{{ type }}</caption>
+			<ul>
+				{%- for name, value in data.recipies.items()|sort -%}
+				{%- if value.type == type %}
+				<li><a class="navoption {%- if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
+				{%- endif -%}
+				{%- endfor -%}
+			</ul>
+		</div>
+		{%- endfor -%}	
+		{%- if data.blog -%}
+		<hr>
+		<div>
+			<caption>Blog</caption>
+			<ul>
+				{%- for name, value in data.blog.items()|sort %}
+				<li><a class="navoption {%- if itemdata and itemdata.name == value.name %} selected{% endif %}" href='{{ name }}.html'>{{ value.name }}</a></li>
+				{%- endfor -%}
+			</ul>
+		</div>
+		{%- endif -%}
 
 	</div>
 	
