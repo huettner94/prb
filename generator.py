@@ -5,6 +5,7 @@ import logging
 import yaml
 import shutil
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+import scss.compiler
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -68,6 +69,18 @@ def generate_pages(output_dir, descriptor, data):
             generate_page(output_dir, page["name"], page["template"], data)
 
 
+def generate_scss(output_dir):
+    staticpath = os.path.join(output_dir, "static")
+    for filename in os.listdir("scss"):
+        p = os.path.join("scss", filename)
+        outpath = os.path.join(staticpath,
+                               os.path.splitext(filename)[0] + ".css")
+        logger.debug("Compiling SCSS %s" % p)
+        css = scss.compiler.compile_file(p)
+        with open(outpath, "w") as out:
+            out.write(css)
+
+
 def output_site(descriptor, data):
     output_dir = "output/"
     try:
@@ -77,6 +90,7 @@ def output_site(descriptor, data):
     os.mkdir(output_dir)
     copy_static(output_dir)
     generate_pages(output_dir, descriptor, data)
+    generate_scss(output_dir)
 
 
 if __name__ == '__main__':
