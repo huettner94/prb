@@ -35,4 +35,7 @@ steps:
     - bis zur Spitze weiterrollen
     - evtl die Spitze mit einer Wasser-Mehl-Mischung fixieren
     - Die Rollen im Ölbad anbraten, bis sie goldbraun sind
+  - name: Frittieren
+  steps:
+  - 8 min bei 180° in der Heißluftfriteuse
 amount: 6-8 Portionen
