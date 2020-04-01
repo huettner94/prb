@@ -28,6 +28,7 @@ steps:
     - Mit Salz, Sojasauce und Sesamöl abschmecken
   - name: Rollen
     steps:
+    - Falls der Frühlingsrollenteig noch nicht aufgetaut ist für ca 3min bei 130 Umluft in den Backofen
     - Einen Frühlingsrollenteig auf einen flachen Teller legen
     - ca. 2 EL Gemüse in die Mitte geben
     - etwas Tofu darauf legen
