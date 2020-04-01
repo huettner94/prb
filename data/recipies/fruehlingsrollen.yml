@@ -11,14 +11,15 @@ ingredients:
   - 1-2 Zwiebeln
   - 1 Marinade (s. Marinaden)
 steps:
-  - name: Tofu
+  - name: Vorbereitung
     steps:
-    - Tofu 24 Stunden aus dem Gefrierschrank nehmen
+    - Tofu 24 Stunden vorher aus dem Gefrierschrank nehmen
     - Tofu kurz unter heißes Wasser halten und dann in ein Geschirrtuch wickeln
-    - etwas schweres oben drauf stellen und den Tofu so auftauen lassen
-    - wenn der Tofu komplett aufgetaut ist (nach 12-16 Stunden) den Tofu in dünne Scheiben schneiden und marinieren
+    - etwas schweres oben drauf stellen und den Tofu so über Nacht (ca 12-16 Stunden) auftauen lassen
+    - Teigblätter 1 Tag vorher vom Gefrierschrank in den Kühlschrank zum Auftauen
   - name: Füllung
     steps:
+    - Tofu in dünne Scheiben schneiden und für ca 30min in der Marinade lassen (je nach Marinade)
     - Karotten, Paprika in feine Streifen schneiden, Zuckerschoten in Stücke schneiden, Zwiebeln klein schneiden
     - Glasnudeln kochen
     - 3-4 EL Sesamöl in einer Pfanne eritzen
