@@ -3,11 +3,12 @@ type: Getränke
 amount: 1 Liter
 ingredients:
   - 150g feine Haferflocken
-  - 1 Liter Wasser (abgekocht, wenn es haltbar sein soll)
+  - 1 Liter Wasser 
 steps:
   - name: Zubereitung
     steps:
-    - 100g feine Haferflocken in 1 Liter (abgekochtes) Wasser geben
+    - Wasser aufkauchen
+    - 100g feine Haferflocken in 1 Liter warmes Wasser geben
     - mindestens eine Stunde quellen lassen
     - pürieren
     - mit einem Nussmilchbeutel filtern
