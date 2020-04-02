@@ -2,7 +2,7 @@ name: Hafermilch
 type: Getränke
 amount: 1 Liter
 ingredients:
-  - 100g feine Haferflocken
+  - 150g feine Haferflocken
   - 1 Liter Wasser (abgekocht, wenn es haltbar sein soll)
 steps:
   - name: Zubereitung
