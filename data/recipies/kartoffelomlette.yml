@@ -15,4 +15,8 @@ steps:
     - auf kleiner Stufe ca. 10 Minuten braten mit Deckel
     - mit einem großén Teller wenden
     - nochmals ca. 5 Minuten braten 
+  - name: Hinweis
+    steps:
+    - man sollte nicht mehr als 4 Portionen auf einmal machen
+    - Gut dazu passt':' Mojo
 amount: 4 Portionen

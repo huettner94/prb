@@ -4,8 +4,12 @@ import os
 import logging
 import yaml
 import shutil
+
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+
 import scss.compiler
+
+from PIL import Image
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -81,6 +85,23 @@ def generate_scss(output_dir):
             out.write(css)
 
 
+def compress_image(filepath):
+    logger.debug("Compressing Image %s" % filepath)
+    image = Image.open(filepath)
+    ratio = image.size[1] / image.size[0]
+    imgsize = (1500, int(1500 * ratio))
+    image = image.resize(imgsize, Image.ANTIALIAS)
+    image.save(filepath, optimitze=True)
+
+
+def compress_images(output_dir):
+    staticpath = os.path.join(output_dir, "static")
+    for root, dirs, files in os.walk(staticpath):
+        for f in files:
+            if f.endswith(".jpg") or f.endswith(".jpeg"):
+                compress_image(os.path.join(root, f))
+
+
 def output_site(descriptor, data):
     output_dir = "output/"
     try:
@@ -91,6 +112,7 @@ def output_site(descriptor, data):
     copy_static(output_dir)
     generate_pages(output_dir, descriptor, data)
     generate_scss(output_dir)
+    compress_images(output_dir)
 
 
 if __name__ == '__main__':

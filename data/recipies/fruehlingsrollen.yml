@@ -11,14 +11,15 @@ ingredients:
   - 1-2 Zwiebeln
   - 1 Marinade (s. Marinaden)
 steps:
-  - name: Tofu
+  - name: Vorbereitung
     steps:
-    - Tofu 24 Stunden aus dem Gefrierschrank nehmen
+    - Tofu 24 Stunden vorher aus dem Gefrierschrank nehmen
     - Tofu kurz unter heißes Wasser halten und dann in ein Geschirrtuch wickeln
-    - etwas schweres oben drauf stellen und den Tofu so auftauen lassen
-    - wenn der Tofu komplett aufgetaut ist (nach 12-16 Stunden) den Tofu in dünne Scheiben schneiden und marinieren
+    - etwas schweres oben drauf stellen und den Tofu so über Nacht (ca 12-16 Stunden) auftauen lassen
+    - Teigblätter 1 Tag vorher vom Gefrierschrank in den Kühlschrank zum Auftauen
   - name: Füllung
     steps:
+    - Tofu in dünne Scheiben schneiden und für ca 30min in der Marinade lassen (je nach Marinade)
     - Karotten, Paprika in feine Streifen schneiden, Zuckerschoten in Stücke schneiden, Zwiebeln klein schneiden
     - Glasnudeln kochen
     - 3-4 EL Sesamöl in einer Pfanne eritzen
@@ -27,6 +28,7 @@ steps:
     - Mit Salz, Sojasauce und Sesamöl abschmecken
   - name: Rollen
     steps:
+    - Falls der Frühlingsrollenteig noch nicht aufgetaut ist für ca 3min bei 130 Umluft in den Backofen
     - Einen Frühlingsrollenteig auf einen flachen Teller legen
     - ca. 2 EL Gemüse in die Mitte geben
     - etwas Tofu darauf legen
@@ -35,4 +37,7 @@ steps:
     - bis zur Spitze weiterrollen
     - evtl die Spitze mit einer Wasser-Mehl-Mischung fixieren
     - Die Rollen im Ölbad anbraten, bis sie goldbraun sind
+  - name: Frittieren
+    steps:
+    - 8 min bei 180 in der Heißluftfriteuse
 amount: 6-8 Portionen
