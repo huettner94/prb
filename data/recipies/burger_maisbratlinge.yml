@@ -1,5 +1,6 @@
 name: Burger Maisbratlinge
 type: Punee
+img: static/img/Burger.jpg
 ingredients:
   - 200g getr. Kichererbsen
   - 340g Mais aus der Dose

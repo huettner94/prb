@@ -1,5 +1,6 @@
 name: Hafermilch
 type: Getränke
+img: static/img/Hafermilch.jpg
 amount: 1 Liter
 ingredients:
   - 150g feine Haferflocken
