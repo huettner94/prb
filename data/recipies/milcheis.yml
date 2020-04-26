@@ -9,7 +9,7 @@ steps:
   - name: Zubereitung
     steps:
       - 125ml Milch, 250ml Sahne mit Zutaten gewünschter Geschmacksrichtung vermengen
-      - "Beispiele: Minzsirup, Vanillezucker, Schokoraspel, M&Ms als Topping, Früchte als Topping, ...
-      - für 30 Minuten in die Eismaschine"
+      - "Beispiele: Minzsirup, Vanillezucker, Schokoraspel, M&Ms als Topping, Früchte als Topping, ..."
+      - für 30 Minuten in die Eismaschine
 
 
