@@ -1,0 +1,14 @@
+name: Milcheis Grundrezept
+type: Eis
+img: 
+amount: 3 Portionen
+ingredients:
+  - 250ml Sahne (Schwarzwald, BIO)
+  - 125ml Milch (Demeter Frischmilch)
+steps:
+  - name: Zubereitung
+    steps:
+      - 125ml Milch, 250ml Sahne mit Zutaten gewünschter Geschmacksrichtung vermengen
+      - Beispiele: Minzsirup, Vanillezucker, Schokoraspel, M&Ms als Topping, Früchte als Topping, ...
+
+
