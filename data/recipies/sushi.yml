@@ -20,7 +20,8 @@ steps:
   - name: Ideen für Füllung
     steps:
       - mariniertes Hühnchen
-      - hartgekochte eos_interface- Erdnüsse
+      - hartgekochtes Ei
+      - Erdnüsse
       - Sesam
       - "Gemüse: Gurke, Paprika, Avocade" 
       - Currytofu
