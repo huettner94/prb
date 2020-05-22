@@ -8,7 +8,7 @@ steps:
   - name: Reis
     steps:
       - pro Person halbe Tasse Reis
-      - 2 EL Reisessig, 1 TL Salz, 1 TL Zucker, 1 EL Mirin (süßer japanischer Reiswein) in einen Topf geben
+      - 3 EL Reisessig, 2 TL Salz, 1 TL Zucker, 2 EL Mirin (süßer japanischer Reiswein) in einen Topf geben
       - erhizen, bis sich Salz + Zucker aufgelöst haben
       - abkühlen lassen
       - unter den fertigen Reis mischen
