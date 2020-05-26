@@ -1,0 +1,32 @@
+name: Burger MEB-Bratlinge (Mais, Ei, Butter)
+type: Burger
+ingredients:
+  - 200g Zucchini
+  - Salz
+  - 1 rote milde Chilischote
+  - 3 Eier
+  - 250g Mais
+  - 2-3 EL Milch
+  - 2 TL Currypulver
+  - 5 EL Butter
+  - 5 EL Mehl
+  - Pfeffer
+  - 4-5 TL Zitronensaft
+  - 2 TL Zucker
+steps:
+  - name: Vorbereitung
+    steps:
+    - Zucchini putzen und raspeln
+    - Zucchiniraspeln mit 1 TL Salz mischen und 10 min ziehen lassen
+    - Anschliesend Flüssigkeit gut ausdrücken
+  - name: Zubereitung
+    steps:
+    - Chilischote entkernen und in feine Würfel schneiden
+    - Eier trennen
+    - Maiskörner abtropen
+    - Hälfte der Maiskörner, Eigelb, Milch, Currypulver und Butter mit einem Stabmixer pürrieren
+    - übrige Maiskörner, Zucchini, Chili und Mehl unterheben und verrühren
+    - Mit Salz und Pfeffer würzen
+    - Eiweiß mit Zitronensaft und Zucker steif schlagen und unterheben
+    - ein einer Pfanne mit 1 EL pro Puffer anbraten
+amount: 10 Bratlinge
