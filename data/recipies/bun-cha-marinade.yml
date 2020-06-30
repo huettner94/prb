@@ -1,7 +1,6 @@
 name: Bun Cha Marinade
 type: Marinaden
 ingredients:
-  - 1 Tofu
   - 4 EL Hoisinsauce
   - 8 EL Sojasauce
   - 2 TL Zucker
@@ -10,8 +9,4 @@ steps:
   - name: Zubereitung
     steps:
       - Zutaten für die Marinade verrühren bis sich der Zucker aufgelöst hat
-      - Tofu in mundgerechte Würfel schneiden
-      - Den Tofu in 50% der Marinade für 1h ziehen lassen
-      - Tofu in einer Pfanne braun anbraten
-      - Die zweite Hälfte der Marinade über den Tofu in der Pfanne geben und noch kurz weiterbraten
-      - Herausnehmen, Passt gut zu Bun Cha
+

@@ -12,12 +12,11 @@ steps:
       - Kartoffeln, Kürbis und Zwiebeln schneiden
       - Kokosmilch verflüssigen? Griffbereit geöffnet
       - "Gewürze: Chilipulver, Sambal Olek, Garam Masala"
-      - 150ml Wasser
   - name: Zubereitung
     steps:
     - Zwiebeln im Topf mit Öl anbraten, Chilipulver dazu
     - Kartoffeln dazu, kurz weiterbraten
-    - Kokosmlich + 150ml Wasser dazu
+    - Kokosmlich dazugeben
     - 10 min köcheln mit Deckel
     - Kürbis dazu
     - 10 min köcheln mit Deckel

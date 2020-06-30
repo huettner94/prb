@@ -1,5 +1,6 @@
 name: Bun Cha
 type: Vietnamesisch
+amount: 2 Personen
 ingredients:
   - 150g Reisnudeln
   - 1 Karotte
@@ -15,13 +16,20 @@ ingredients:
   - 2 TL brauner Zucker
   - 1 Knoblauchzehe
   - 1 Chilischote
+  - 1 Tofu
 steps:
+  - name: Tofu
+    steps:
+      - "Marinade vorbereiten: z.B. Bun-Cha-Marinade oder Asia-Marinade"
+      - Tofu in mundgerechte Würfel schneiden
+      - Den Tofu in 50% der Marinade für 1h ziehen lassen
+      - Tofu in einer Pfanne braun anbraten
+      - Die zweite Hälfte der Marinade über den Tofu in der Pfanne geben und noch kurz weiterbraten, danach warmhalten
   - name: Zubereitung
     steps:
       - Reisnudeln nach Packungsanweisung zubereiten
       - Karotte, Rotkohl und Gurke in feine Streifen schneiden
       - Für die Salatsauce den Saft der Limette, Reisessig, Zucker, Knoblauch und geschnittene Chilischote in einer Schüssel verrühren
       - Salatblätter in Schälchen auslegen und Nudeln darauf platzieren
-      - Gemüse darauf geben und mit Erdnüssen bestreuen
-      - Mit der Sauce, den Kräutern und den Limettenvirteln servieren
-      - passt sehr gut zu Tofu in Bun Cha Marinade
+      - Gemüse mit der Sauce vermischen und dazu geben
+      - Tofu auf die nudeln Nudeln geben und mit Erdnüssen bestreuen
