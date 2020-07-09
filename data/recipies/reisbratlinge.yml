@@ -1,0 +1,19 @@
+name: Reisbratlinge
+type: Burger
+amount: 10 Bratlinge
+ingredients:
+  - 1 Karotte
+  - drittel bis halbe Zucchini 
+  - halbe Tasse gekochter Reis 
+  - Violas  Arabisches Orangengewürz
+  - 200g Kichererbsen
+steps:
+  - name: Vorbereitung
+    steps:
+      - getrocknete Kichererbsen mindestens 8 Stunden vorher einwachen
+      - Reis kochen
+  - name: Zubereitung
+    steps:
+      - Karotte und Zuchhini raspeln
+      - Kichererbsen und den gekochten Reis pürieren
+
