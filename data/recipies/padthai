@@ -1,0 +1,44 @@
+name: Pad Thai
+type: Asiatisch
+ingredients:
+  - Tamarindenpaste
+  - Chiliöl
+  - Tofu
+  - Bandnudeln aus Reis
+  - halbe Zwiebel
+  - halbe Limette
+  - 1 Chilischote
+  - 2 Knoblauchzehen
+  - Erdnüsse
+  - 1 Karotte
+  - 100g Bohnensprossen
+steps:
+  - name: Vorbereitung Tofu
+    steps:
+    - Tofu einfrieren
+    - 1 Tag vorher wieder auftauen und auspressen. Hierfür den Tofu in ein Geschirrtuch einwickeln mit zum Beispiel einem Wok beschweren.
+    - Tofu in mundgerechte Würfel schneiden
+    - Maisstärke darüber sieben und unterheben
+    - Tofu unter ständigem Rühren anbraten
+  - name: Vorbereitung
+    steps:
+    - Soße verrühren: 1EL Palmzucker, 1EL Tamarindenpaste, 1 EL Chiliöl
+    - Nudeln kochen
+    - Karotte in Stäbchen schneiden
+    - Bohnensprossen waschen
+    - Limette auspressen
+    - halbe Zwiebel, 2 Knoblauchzehen und 1 Chilischote fein hacken
+  - name: Zubereitung
+    steps:
+    - 2 EL Öl im Wok stark erhitzen
+    - 1 EL Öl rein
+    - Gemüse dazugeben (1 Karotte, 50g Zuckererbsen, 1 Pilz, halbe Paprika)
+    - 20 sek. brutzeln
+    - 150ml Gemüsebrühe dazugeben
+    - 30 sek. kochen
+    - "dazugeben: 1TL Salz, 1TL Zucker, 1TL Currypaste, 1TL Sambal Olek"
+    - 1 Min. kochen
+    - 40 ml Kokosmilch (flüssig)
+    - Köcheln mittlere stufe 2-3 Min
+    - Nudeln dazugeben
+amount: 1 Portion
