@@ -24,21 +24,19 @@ steps:
     steps:
     - Soße verrühren: 1EL Palmzucker, 1EL Tamarindenpaste, 1 EL Chiliöl
     - Nudeln kochen
-    - Karotte in Stäbchen schneiden
-    - Bohnensprossen waschen
-    - Limette auspressen
+    - 1 Karotte in Stäbchen schneiden
+    - 100g Bohnensprossen waschen
+    - eine halbe Limette auspressen
     - halbe Zwiebel, 2 Knoblauchzehen und 1 Chilischote fein hacken
   - name: Zubereitung
     steps:
     - 2 EL Öl im Wok stark erhitzen
-    - 1 EL Öl rein
-    - Gemüse dazugeben (1 Karotte, 50g Zuckererbsen, 1 Pilz, halbe Paprika)
-    - 20 sek. brutzeln
-    - 150ml Gemüsebrühe dazugeben
-    - 30 sek. kochen
-    - "dazugeben: 1TL Salz, 1TL Zucker, 1TL Currypaste, 1TL Sambal Olek"
-    - 1 Min. kochen
-    - 40 ml Kokosmilch (flüssig)
-    - Köcheln mittlere stufe 2-3 Min
-    - Nudeln dazugeben
-amount: 1 Portion
+    - Zwiebeln, Knoblauch und Chili dazugeben, 1-2min braten
+    - Karotten hinzugeben, 1-2min braten
+    - hinzugeben: 1 Spritzer Wasser, Soße und Nudeln, ca 5min braten
+    - hinzugeben: Tofu, Bohnensprossen, Saft der Limette, 1-2min weiterbraten
+    - Erdnüsse hinzugeben und servieren
+  - name: Anmerkung
+    steps:
+    - maximal 3 Portionen pro Wok
+amount: 2 Portionen
