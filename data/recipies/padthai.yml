@@ -22,7 +22,7 @@ steps:
     - Tofu unter ständigem Rühren anbraten
   - name: Vorbereitung
     steps:
-    - Soße verrühren: 1EL Palmzucker, 1EL Tamarindenpaste, 1 EL Chiliöl
+    - "Soße verrühren:" 1EL Palmzucker, 1EL Tamarindenpaste, 1 EL Chiliöl
     - Nudeln kochen
     - 1 Karotte in Stäbchen schneiden
     - 100g Bohnensprossen waschen
