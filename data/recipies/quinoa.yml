@@ -5,5 +5,6 @@ steps:
     steps:
       - Quinoa mit heißem Wasser abspülen
       - 1 Quinoa zu 2 Wasser
+      - salzen
       - etwa 30 Minuten köcheln lassen
 amount: 3 Portionen pro Tasse
