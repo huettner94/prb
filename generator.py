@@ -38,7 +38,10 @@ def get_data(path="data"):
         elif p.endswith(".yml"):
             name = ".".join(filename.split(".")[:-1])
             with open(p) as f:
-                data[name] = yaml.load(f, Loader=yaml.FullLoader)
+                try:
+                    data[name] = yaml.load(f, Loader=yaml.FullLoader)
+                except yaml.parser.ParserError as e:
+                    logger.exception("Error loading %s" % p)
     return data
 
 
@@ -120,5 +123,4 @@ if __name__ == '__main__':
     descriptor = get_descriptor()
     logger.debug("DESCRIPTOR: %s" % descriptor)
     data = get_data()
-    logger.debug("DATA: %s" % data)
     output_site(descriptor, data)
