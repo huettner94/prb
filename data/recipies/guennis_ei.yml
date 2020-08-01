@@ -2,7 +2,7 @@ name: Günnis Ei
 type: Günni
 ingredients:
   - Ei für Günni
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - nach Aufkochen des Wassers 4 Minuten, net mehr, net weniger !!!

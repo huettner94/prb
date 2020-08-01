@@ -1,6 +1,6 @@
 name: Quinoa
 type: Beilagen
-steps:
+recipie:
   - name: Zubereitung
     steps:
       - Quinoa mit heißem Wasser abspülen

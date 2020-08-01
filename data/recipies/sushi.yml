@@ -4,7 +4,7 @@ ingredients:
   - Klebereis
   - Noriblätter
   - Soße
-steps:
+recipie:
   - name: Reis
     steps:
       - pro Person halbe Tasse Reis

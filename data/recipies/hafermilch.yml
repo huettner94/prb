@@ -5,7 +5,7 @@ amount: 1 Liter
 ingredients:
   - 150g feine Haferflocken
   - 1 Liter Wasser 
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - Wasser aufkochen

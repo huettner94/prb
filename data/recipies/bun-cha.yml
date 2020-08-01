@@ -17,7 +17,7 @@ ingredients:
   - 1 Knoblauchzehe
   - 1 Chilischote
   - 1 Tofu
-steps:
+recipie:
   - name: Tofu
     steps:
       - "Marinade vorbereiten: z.B. Bun-Cha-Marinade oder Asia-Marinade"

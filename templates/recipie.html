@@ -12,7 +12,7 @@
 		{{ itemdata.amount }}
 	{% endif -%}
 
-	{%- for step in itemdata.steps %}
+	{%- for step in itemdata.recipie %}
 	<h3>{{ step.name }}</h3>
 	<ul>
 		{%- for substep in step.steps %}

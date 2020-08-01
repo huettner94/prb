@@ -2,7 +2,7 @@ name: Wedges
 type: Beilagen
 ingredients:
   - 300g Kartoffeln
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - Kartoffeln in mundgerechte Happen schneiden

@@ -12,7 +12,7 @@ ingredients:
   - Erdnüsse
   - 1 Karotte
   - 100g Bohnensprossen
-steps:
+recipie:
   - name: Vorbereitung Tofu
     steps:
     - Tofu einfrieren

@@ -7,7 +7,7 @@ ingredients:
   - Gewürze
   - Zitronenschale
   - etwas Mehl
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - getrocknete Kichererbsen 10h einweichen

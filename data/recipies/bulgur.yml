@@ -2,7 +2,7 @@ name: Bulgur
 type: Beilagen
 ingredients:
   - Bulgur
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - benötigten Bulgur abmessen und in eine Tasse/Schalen geben

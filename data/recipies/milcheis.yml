@@ -5,7 +5,7 @@ amount: 3 Portionen
 ingredients:
   - 250ml Sahne (Schwarzwald, BIO)
   - 125ml Milch (Demeter Frischmilch)
-steps:
+recipie:
   - name: Zubereitung
     steps:
       - 125ml Milch, 250ml Sahne mit Zutaten gewünschter Geschmacksrichtung vermengen

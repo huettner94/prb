@@ -9,7 +9,7 @@ ingredients:
   - Reisessig
   - Reis
   - Rohrzucker
-steps:
+recipie:
   - name: Vorbereitung
     steps:
       - "Soße:"

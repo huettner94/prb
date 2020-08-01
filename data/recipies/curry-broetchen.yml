@@ -11,7 +11,7 @@ ingredients:
   - Hefe
   - Semmelbrösel
   - Gemüse
-steps:
+recipie:
   - name: Vorbereitung
     steps:
       - Kokosmilch schmelzen

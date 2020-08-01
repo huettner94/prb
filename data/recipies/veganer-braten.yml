@@ -10,7 +10,7 @@ ingredients:
   - Tomatenmark
   - Sojasoße
   - 120g Semmelbrösel
-steps:
+recipie:
   - name: Vorbereitung
     steps:
       - Backform einfetten und mit Backpaier auslegen

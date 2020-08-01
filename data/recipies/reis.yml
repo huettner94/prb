@@ -3,7 +3,7 @@ type: Beilagen
 img: static/img/Reis.jpg
 ingredients:
   - Reis
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - benötigten Reis abmessen und unter fliesendem Wasser spülen

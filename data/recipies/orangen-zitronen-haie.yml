@@ -10,7 +10,7 @@ ingredients:
   - 1 Ei
   - 1,5 Tl Backpulver
   - Orangen-/Zitronenschale
-steps:
+recipie:
   - name: Vorbereitung
     steps:
     - Teig kneten und einige Stunden in den Kühlschrank stellen

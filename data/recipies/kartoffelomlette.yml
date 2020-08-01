@@ -4,7 +4,7 @@ img: static/img/Kartoffelomlette.jpg
 ingredients:
   - 6 mittelgroße Kartoffeln
   - 6 mittelgroße Eier
-steps:
+recipie:
   - name: Zubereitung
     steps:
     - 6 mittelgroße Kartoffeln in kleine Würfel schneiden

@@ -2,7 +2,7 @@ name: Apfelmus
 type: Punee
 ingredients:
   - 2 mittelgroße Äpfel
-steps:
+recipie:
   - name: Zubereitung
     steps:
       - Äpfel schneiden. Mit oder ohne Schale

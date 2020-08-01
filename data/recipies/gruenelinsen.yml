@@ -1,6 +1,6 @@
 name: grüne Linsen, ungespalten
 type: Beilagen
-steps:
+recipie:
   - name: Vorbereitung
     steps:
       - Linsen in feinmaschigem Sieb abspülen

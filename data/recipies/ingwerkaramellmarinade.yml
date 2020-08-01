@@ -8,7 +8,7 @@ ingredients:
   - Reisessig
   - Reis
   - Rohrzucker
-steps:
+recipie:
   - name: Zubereitung
     steps:
       - 3 EL Stärke mit halben Esslöffel Wasser vermengen

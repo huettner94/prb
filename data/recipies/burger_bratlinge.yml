@@ -7,7 +7,7 @@ ingredients:
   - 1 kleine Zwiebel
   - 1 Knoblauchzehe
   - Raucharoma
-steps:
+recipie:
   - name: Vorbereitung
     steps:
       - getrocknete Kichererbsen min. 10h einweichen
