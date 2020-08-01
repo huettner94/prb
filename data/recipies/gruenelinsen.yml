@@ -5,7 +5,6 @@ steps:
     steps:
       - Linsen in feinmaschigem Sieb abspülen
       - 1 Tag vorher einweichen, zur besseren Bekömmlichkeit und reduzierter Kochdauer
-steps:
   - name: Zubereitung
     steps:
       - Linsen im kalten Wasser zum Kochen bringen, mit Deckel
