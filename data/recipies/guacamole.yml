@@ -1,0 +1,36 @@
+name: Guacamole
+type: Mexikanisch
+ingredients:
+  - 2 Avocados
+  - 2 Knoblauchzehen
+  - Saft einer halben Zitrone
+  - 1TL Schwarzer Pfeffer
+recipie:
+  - name: Vorbereitung
+    steps:
+      - Knoblauchzehen schälen
+      - Zitrone auspressen
+  - name: Zubereitung
+    steps:
+      - "in eine Schüssel geben: 2 Avocados, 2 Knoblauchzehen, Saft einer halben Zitrone, 1TL Schwarzer Pfeffer"
+      - pürieren
+      - zur Aufbewarhung in geschlossenem Gefäß kühl lagern
+amount: 4 Portionen
+
+type: Mexikanisch
+ingredients:
+  - 2 Avocados
+  - 2 Knoblauchzehen
+  - Saft einer halben Zitrone
+  - 1TL Schwarzer Pfeffer
+recipie:
+  - name: Vorbereitung
+    steps:
+      - Knoblauchzehen schälen
+      - Zitrone auspressen
+  - name: Zubereitung
+    steps:
+      - "in eine Schüssel geben: 2 Avocados, 2 Knoblauchzehen, Saft einer halben Zitrone, 1TL Schwarzer Pfeffer"
+      - pürieren
+      - zur Aufbewarhung in geschlossenem Gefäß kühl lagern
+amount: 4 Portionen
