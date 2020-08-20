@@ -1,0 +1,27 @@
+
+bei der Dateibenennung keine Umlaute, keine Leerstellen, alles klein und .yml hinten dran hängen
+
+name: Falafel
+type: Orientalisch
+ingredients:
+  - 350g getrocknete Kichererbsen
+  - 150g Kichererbsen-Mehl  
+  - 1 große Zwiebel
+  - 3 Knoblauchzehen
+  - 1 EL gemahlener Kreuzkümmel
+  - 1 TL Currypulver 
+  - 0,5 TL schwarzer Pfeffer
+recipie:
+  - name: Vorbereitung
+    steps:
+      - 350g getrocknete Kichererbsen 1 Tag vorher einweichen, mindestens 8h vorher
+  - name: Zubereitung
+    steps:
+      - Kichererbsen pürieren
+      - "kleinschneiden: 1 große Zwiebel und 3 Knoblauchzehen"
+      - "zu den Kichererbsen geben: 150g Kichererbsen-Mehl, Gewürze, Zwiebel, Knoblauch"
+      - zu Bällchen formen, dann frittieren / braten / backen   
+  - name: Anmerkung
+    steps:
+      - passt gut zu Guacamole
+amount: 30 Stück
