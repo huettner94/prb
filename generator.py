@@ -40,7 +40,7 @@ def get_data(path="data"):
             with open(p) as f:
                 try:
                     data[name] = yaml.load(f, Loader=yaml.FullLoader)
-                except yaml.parser.ParserError as e:
+                except (yaml.parser.ParserError, yaml.scanner.ScannerError) as e:
                     logger.exception("Error loading %s" % p)
     return data
 
