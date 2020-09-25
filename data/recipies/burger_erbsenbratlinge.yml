@@ -1,0 +1,27 @@
+name: Burger Erbsenbratlinge
+type: Burger
+ingredients:
+  - 150g getrocknete Kichererbsen
+  - 200g Erbsen
+  - 1 Zwiebel
+  - 2 Knoblauchzehen
+  - 1 4cm Stück Kurkuma
+  - 1/2 Bund Petersilie
+  - 1 EL Limettenschale
+  - 1 TL Natron
+  - 1 TL gemahlener Koriander
+  - 1 TL gemahlener Kreuzkümmel
+  - 2 TL Salz
+  - Pfeffer
+  - 4 EL Semmelbrösel
+recipie:
+  - name: Zubereitung
+    steps:
+    - getrocknete Kichererbsen 10h einweichen
+    - Erbsen vorkochen
+    - Zwiebel, Knoblauch und Kurkuma schälen und grob schneiden
+    - Petersilie hacken
+    - Kichererbsen, Erbsen, Zwiebeln, Knoblauch, Kurkuma und Petersilie fein pürieren
+    - Limettenschale, Natron, Gewürze und Semmelbösel dazugeben und gut mischen
+    - Masse zu Bällchen oder Bratlingen formen
+amount: 10 Bratlinge
