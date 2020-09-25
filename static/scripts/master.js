@@ -3,9 +3,19 @@ function search(event) {
     var navoptions = document.getElementsByClassName("navoption")
     Array.prototype.forEach.call(navoptions, function(e) {
         if (e.innerText.toLowerCase().includes(value)) {
-            e.classList.remove("navoption-hide")
+            e.parentElement.classList.remove("hide")
         } else {
-            e.classList.add("navoption-hide")
+            e.parentElement.classList.add("hide")
+        }
+    });
+    var groups = document.getElementsByClassName("nav-ul")
+    Array.prototype.forEach.call(groups, function(e) {
+        var subli = e.getElementsByTagName("li")
+        var hasitems = [].filter.call(subli, li => ! li.classList.contains("hide")).length > 0
+        if (hasitems) {
+            e.classList.remove("hide")
+        } else {
+            e.classList.add("hide")
         }
     });
 }
