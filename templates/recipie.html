@@ -7,6 +7,14 @@
 {% endif -%}
 
 <h2>{{itemdata.name}}</h2>
+<div class="right boxed">
+	<h3>Einkaufszeddele</h3>
+	<ul>
+		{%- for item in itemdata.ingredients %}
+		<li>{{ item }}</li>
+		{%- endfor %}
+	</ul>
+</div>
 <div class="left">
 	{%- if itemdata.amount %}
 		{{ itemdata.amount }}
@@ -21,13 +29,5 @@
 	</ul>
 	{%- endfor -%}
 
-</div>
-<div class="right boxed">
-	<h3>Einkaufszeddele</h3>
-	<ul>
-		{%- for item in itemdata.ingredients %}
-		<li>{{ item }}</li>
-		{%- endfor %}
-	</ul>
 </div>
 {% endblock -%}

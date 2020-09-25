@@ -20,9 +20,21 @@ function search(event) {
     });
 }
 
+function navigation_unhide(event) {
+    var navs = document.getElementsByClassName("nav")
+    Array.prototype.forEach.call(navs, function(e) {
+        if (e.classList.contains("mobile-hide")) {
+            e.classList.remove("mobile-hide")
+        } else {
+            e.classList.add("mobile-hide")
+        }
+    });
+}
+
 
 function startup(event) {
     document.getElementById("searchbox").addEventListener('input', search)
+    document.getElementById("navigation-unhide").addEventListener('click', navigation_unhide)
 }
 
 

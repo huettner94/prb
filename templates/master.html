@@ -7,10 +7,12 @@
 	<link rel="stylesheet" href="static/style.css"/>
 	<script type="text/javascript" src="static/scripts/master.js"></script>
 	<link rel="icon" href="static/favicon.ico" type="image/x-icon" /> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<h1>Rezepte</h1>
-	<div class="nav">
+	<input type="button" class="mobile-show nav-hide-button" id="navigation-unhide" value="Navigation"/>
+	<div class="nav {% if itemdata %}mobile-hide{% endif %}">
 		{%- set types = [] -%}
 		{%- for name, value in data.recipies.items() -%}
 		{%- do types.append(value.type) -%}
