@@ -1,0 +1,18 @@
+name: Butterwaffeln
+type: Nachtisch
+ingredients:
+  - 85g Butter
+  - 85g Zucker
+  - Prise Salz
+  - 2 Eier
+  - 200ml Buttermilch
+  - 200g Mehl
+  - 1/2 TL Backpulver
+recipie:
+  - name: Zubereitung
+    steps:
+      - Butter, Zucker und Salz in einem Mixer cremig aufschlagen
+      - Eier und Buttermilch hinzufügen und verrühren
+      - Mehl und Backpulver darübersieben
+      - zu einem zähflüssigen Teig verarbeiten
+      - in einem Waffeleisen backen   
