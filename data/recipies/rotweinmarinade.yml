@@ -1,0 +1,21 @@
+name: Rotweinmarinade
+type: Marinaden
+ingredients:
+  - 200 ml Rotwein
+  - 100 ml Sojasauce
+  - 1,5 EL Balsamico Essig
+  - 1 EL brauner Zucker
+  - 1 fein gehackte Knoblauchzehe
+  - 50 ml Olivenöl
+  - schwarzer Pfeffer
+  - 3 große Rote Zwiebeln
+recipie:
+  - name: Zubereitung
+    steps:
+      - Rotwein, Sojasauce, Essig, Zucker, Knoblauch, Olivenöl und eine priese Pfeffer in eine Schüssel geben
+      - so lange verrühren, bis sich das Öl gleichmäßig verteilt hat
+      - Zwiebeln in dünne Ringe schneiden
+      - Zwiebelringe ca. 30 min in der Schüssel marinieren
+      - Zwiebelringe in einer Pfanne anbraten (vorher nicht abtropfen lassen)
+      - gebratene Zwiebelringe wieder in die Marniade geben
+      - kurz aufkochen
