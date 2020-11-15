@@ -1,0 +1,17 @@
+
+name: Veganer Pudding
+type: Nachtisch 
+ingredients:
+  - 300g Seidentofu (Silken Tofu)
+  - 200ml Sojamilch
+  - 50g Kakaopulver
+  - Schokosplitter
+  - 1 TL Vanillezucker
+
+recipie:
+  - name: Zubereitung
+    steps:
+      - alle Zutaten außer Schokosplitter vermengen und pürieren
+      - Schokosplitter unterrühren
+amount: zwei Gläser
+
