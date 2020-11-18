@@ -1,5 +1,6 @@
 name: Rote Linsen
 type: Beilagen
+recipie:
   - name: Zubereitung
     steps:
       - Abspülen, bis das Wasser sich nicht mehr trübt, zur besseren Bekömmlichkeit
