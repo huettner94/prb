@@ -1,7 +1,6 @@
 name: Milcheis Grundrezept
 type: Eis
 img: static/img/milcheis.jpg
-img: 
 amount: 3 Portionen
 ingredients:
   - 250ml Sahne (Schwarzwald, BIO)
