@@ -1,5 +1,6 @@
 name: Burger Erbsenbratlinge
 type: Burger
+img: static/img/erbsenbratlinge.jpg
 ingredients:
   - 150g getrocknete Kichererbsen
   - 200g Erbsen

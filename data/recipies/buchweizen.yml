@@ -1,5 +1,6 @@
 name: Buchweizen
 type: Beilagen 
+img: static/img/buchweizen.jpg
 recipie:
   - name: Zubereitung
     steps:

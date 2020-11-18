@@ -1,5 +1,6 @@
 name: Quinoa
 type: Beilagen
+img: static/img/quinoa.jpg
 recipie:
   - name: Zubereitung
     steps:
