@@ -1,0 +1,22 @@
+name: Focaccia
+type: Gebäck
+ingredients:
+  - 300g Weizehmehl (405)
+  - 1 TL Zucker
+  - 1 TL Salz
+  - 1/2 Hefewürfel (oder 1 Päckchen Trockenhefe)
+  - 3 EL Olivenöl
+  - 150ml lauwarmes Wasser
+recipie:
+  - name: Zubereitung
+    steps:
+    - Mehl, Zucker, Salt und Hefe vermengen
+    - Wasser und Olivenöl zugeben
+    - verkneten
+    - 30 min gehen lassen
+    - Backofen auf 200°C vorheizen
+    - Teig kurz durchkneten und auf einem Blech ausrollen (2-3 cm dick)
+    - 15 min ruhen lassen
+    - mit Olivenöl bestreichen und Salz und Rosmarin bestreuen
+    - für ca. 25 min backen
+amount: 4 Bleche
