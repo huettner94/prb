@@ -1,0 +1,21 @@
+name: Melonenkaltschale
+type: Nachtisch
+ingredients:
+  - 2 Honigmelonen
+  - 10 Stängel Basilikum
+  - 3 EL Honig
+  - 30g Rphrzucker
+  - Saft und Schale von 3 Limetten
+  - 200g griechischer Joghurt
+  - 2 Chilischoten
+  - 400ml cremige Kokosmilch 
+recipie:
+  - name: Zubereitung
+    steps:
+      - Melonen halbieren, entkernen und Fruchtfleisch ausschaben, Melonenschale soll intakt bleiben
+      - hälfte des Melonenfleisches in Würfel schneiden
+      - andere hälfte des Melonenfleisches mit allen anderen Zutaten vermengen und pürieren
+      - die vier halbe Melonen befüllen
+amount: 4 Portionen
+
+
