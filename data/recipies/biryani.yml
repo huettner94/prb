@@ -1,0 +1,29 @@
+name: Biryani
+type: Indisch
+ingredients:
+  - 350g Basmati-Reis
+  - 50g Rote Linsen
+  - 200g Karotten
+  - 100g Kartoffeln
+  - 150g Erbsen
+  - 100g Rosinen
+  - 600ml Gemüsebrühe
+  - 1 Lorbeerblatt
+  - 1 TL Zimt
+  - 2 TL Garam Masala
+  - 1 TL Kardamom
+recipie:
+  - name: Vorbereitung
+    steps:
+      - Gemüse in mundegerchte Happen schneiden
+      - Reis waschen
+      - Gemüsebrühe vorbereiten
+  - name: Zubereitung
+    steps:
+      - 50g Rote Linsen und 100g Rosinen im Topf anbraten
+      - alle anderen Zutaten hinzugeben
+      - 5min ohne Deckel köcheln
+      - 20 min mit Deckel ziehen lassen
+amount: 4 Portionen
+
+
