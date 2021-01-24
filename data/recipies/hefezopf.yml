@@ -1,0 +1,23 @@
+name: Hefezopf
+type: Gebäck
+ingredients:
+  - 500g Mehl
+  - 275g Hafermilch
+  - 100g Margarine
+  - 25g Hefe
+  - 100g Zucker
+  - 2 Päckchen Vanillezucker
+  - 1 Prise Salz
+  - Pflanzensahne
+  - 2 EL Zitronensaft
+recipie:
+  - name: Zubereitung
+    steps:
+    - Mehl, Hafermilch, Margarine, Hefe und Zucker verkneten
+    - Vanillezucker, Salz und Zitronensaft dazugeben
+    - kneten, bis sich der Teig gut von den Händen löst
+    - Teig in 3 Teile teilen und zu Schnüren ausrollen
+    - die 3 Teile wie ein Hefezopf verschlingen
+    - für ca 30 min gehen lassen
+    - Mit der Pflanzensahne bestreichen
+    - für ca 20 min backen

@@ -1,0 +1,18 @@
+name: Dinkellaugenbrezel
+type: Gebäck
+ingredients:
+  - 400g Dinkelmehl 630
+  - 100g Dinkel-Vollkornmehl
+  - 300ml Wasser
+  - 60g Olivenöl
+  - 10g Salz
+  - 25g Hefe
+  - Natronlauge (vom Bäcker holen)
+recipie:
+  - name: Zubereitung
+    steps:
+    - Mehl, Wasser und Hefe verkneten
+    - Salz und Olivenöl dazugeben und weiterkneten
+    - zu dünnen Schnüren ausrollen und zu einer Brezel formen
+    - ca. 30 min gehen lassen
+    - ca. 10 min backen

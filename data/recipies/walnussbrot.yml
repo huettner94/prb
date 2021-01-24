@@ -1,0 +1,27 @@
+name: Walnussbrot
+type: Gebäck
+ingredients:
+  - 2400g Dinkel-Vollkornmehl
+  - 280g Vollkornmehl
+  - 100g Anstellgut (vom vorherigen Sauerteig)
+  - 410g Walnüsse
+  - 110g Walnussöl
+  - 40g Hefe
+  - 50g Salz
+  - Salz
+recipie:
+  - name: Vorbereitung Sauerteig
+    steps:
+    - 1000g Dinkel-Vollkornmehl mit 1L Wasser bei 40°C, 6g Salz und dem Anstellgut vermengen
+    - Mindestens 1 Tag? stehen lassen
+  - name: Vorbereitung Bruchstück
+    steps:
+    - 280g Vollkornmehl, Walnüsse, 6g Salz und 600ml kochendes Wasser vermengen
+  - name: Zubereitung
+    steps:
+    - 1400g Dinkel-Vollkornmehl mit Walnussöl, Hefe und 650ml Wasser verkneten
+    - Sauerteig und Bruchstück dazugeben und verkneten
+    - 50g Salz dazugeben und verkneten
+    - Zu einem Brotlaib formen und in einen bemehlten Brotkorb legen
+    - für ca 30 min gehen lassen
+    - Bortkorb auf ein Blech stürzen und für ca. 50 min backen

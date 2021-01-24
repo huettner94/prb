@@ -1,0 +1,16 @@
+name: Dinkelbaguette
+type: Gebäck
+ingredients:
+  - 500g Dinkelmehl
+  - 350 ml Wasser
+  - 25g Hefe
+  - 10g Salz
+  - 1 EL Olivenöl
+recipie:
+  - name: Zubereitung
+    steps:
+    - Mehl, Wasser und Hefe verkneten
+    - Salz und Olivenöl dazugeben und weiterkneten
+    - zu Baguettes formen und leicht diagonal einschneiden
+    - ca. 30 min gehen lassen
+    - für ca. 20 min backen
