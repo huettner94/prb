@@ -1,0 +1,14 @@
+name: Galettes
+type: Punee
+ingredients:
+  - 2 Eier
+  - 250g Buchweizenmehl
+  - 200ml Rotwein
+  - 200ml Wasser
+recipie:
+  - name: Zubereitung
+    steps:
+      - 2 Eier, 200ml Rotwein und 200ml Wasser verrühren
+      - 250g Buchweizenmehl und 1 Prise Salz hinzugeben und verrühren
+      - am besten in einer kleinen Pfanne braten
+amount: 4 Portionen
