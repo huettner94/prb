@@ -1,0 +1,17 @@
+name: Palatschinken
+type: Punee
+ingredients:
+  - 8 Eier
+  - 400g 405er Mehl
+  - wahlweise Gewürze
+  - 1 Liter (Pflanzen-)Milch
+recipie:
+  - name: Zubereitung
+    steps:
+      - 8 Eier und 1 Liter (Pflanzen-)Milch verrühren
+      - 1 Prise Salz und 400g 405er Mehl hinzugeben und verrühren
+      - Gewürze hinzugeben
+      - "Gewürzvorschlag herzhaft: Schnittlauch, Petersilie"
+      - "Gewürzvorschlag süß: Orangenschale, Zimt"
+      - braten
+amount: 6 Portionen
