@@ -1,0 +1,17 @@
+name: Kartoffelpüree
+type: Putzig
+ingredients:
+  - 500g mehlig kochende Kartoffeln
+  - 60g Butter
+  - 60g Milch
+  - Prise Muskat
+recipie:
+  - name: Zubereitung
+    steps:
+    - Kartoffeln schälen und 20-25 Minuten kochenden
+    - Kartoffeln herausnehmen und zerstampfen
+    - Milch und Butter in einem Topf erhitzen
+    - Muskat dazugeben
+    - Kartoffeln dazugeben und unterrühren
+    - fertig
+amount: 2 Portionen
